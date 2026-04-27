@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Environment Variables
+.env
+.env.local
+
+# Node.js
+node_modules/
+
+# Next.js Build
+.next/
+
+# OS
+.DS_Store
