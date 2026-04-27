@@ -2,6 +2,10 @@
 
 A full-stack ML web app that predicts California median house prices using FastAPI (backend), Next.js (frontend), and a pre-trained Random Forest model.
 
+## 🚀 Live Demo
+
+Try the live app: https://house-price-predictor--manashdevbhatta.replit.app
+
 ## Clone Repository
 
 ```bash
